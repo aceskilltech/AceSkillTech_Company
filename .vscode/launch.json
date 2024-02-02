@@ -9,13 +9,13 @@
             "request": "launch",
             "type": "chrome",
             "url": "http://www.aceskilltech.com/",
-            "webRoot": "${workspaceFolder/index.html}"
+            "webRoot": "${workspaceFolder/Index.html}"
         },
         /*{
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "webRoot": "${workspaceFolder/index.html}"
+            "webRoot": "${workspaceFolder/Index.html}"
         }*/
     ]
 }
